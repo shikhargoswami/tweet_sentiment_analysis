@@ -2,7 +2,7 @@
 
 ## Table of Content
 * [Overview](#overview)
-* [Demo](#demo)
+* [About the model](#about-the-model)
 * [Steps to Reproduce](#steps-to-reproduce)
 * [Technologies Used](#technologies-used)
 * [Further Improvements](#further-improvements)
