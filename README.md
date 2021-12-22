@@ -7,7 +7,7 @@
 * [Technologies Used](#technologies-used)
 * [Further Improvements](#further-improvements)
 
-### Introduction
+### Overview
 
 This is an end-to-end <b>Machine Learning</b>web application deployed using <b>Streamlit</b> that classifies the tweet into 3 classes viz. <b>Neutral</b>, <b>Positive</b>, <b>Negative</b>. 
 
